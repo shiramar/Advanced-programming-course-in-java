@@ -1,3 +1,3 @@
 # Advanced-programming-course-in-java
-Works in an advanced programming course in java.
-Works in java and javafx.
+Programs in an advanced programming course in java.
+Programs in java and javafx.
